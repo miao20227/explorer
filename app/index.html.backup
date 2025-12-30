@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>以太坊浏览器 - lixinyi166改造版</title>
+  <title>Ethereum Block Explorer</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="styles/main.css">
@@ -15,10 +15,6 @@
 
 </head>
 <body>
-<div style="background:#4a6fa5;color:white;padding:10px;text-align:center;font-size:14px;">
-🎓 <b>实训项目</b> | 学生：lixinyi166 | 日期：2024-12-30 | 
-<a href="test_page.html" style="color:yellow;">测试页面</a>
-</div>
   
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
